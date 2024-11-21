@@ -87,7 +87,7 @@ url = "2.3.1"
 walkdir = "2.3.2"
 whoami = "1.2.3"
 zip = "0.6.2"
-openssl = { version = "0.10.45", features = ["vendored"], optional = true }
+openssl = { version = "0.10.48", features = ["vendored"], optional = true }
 flate2 = "1.0.24"
 tar = "0.4.38"
 tempfile = "3.5.0"
